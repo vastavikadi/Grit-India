@@ -1,0 +1,50 @@
+{
+    "culturalDresses": [
+      {
+        "name": "Sari",
+        "description": "A traditional Indian garment consisting of a long strip of cloth that is draped elegantly around the body. Saris are often made of silk or cotton and are worn with a blouse and petticoat.",
+        "imageURL": "https://example.com/images/sari.jpg",
+        "tale": {
+          "title": "The Legend of Sati Savitri",
+          "summary": "The tale of Savitri, a devoted wife who uses her intelligence and determination to save her husband from the clutches of death. This legend highlights themes of loyalty and virtue."
+        }
+      },
+      {
+        "name": "Lehenga Choli",
+        "description": "A traditional Indian outfit consisting of a long skirt (lehenga) and a matching blouse (choli), often worn with a dupatta (a long scarf). It is popular for festive and ceremonial occasions.",
+        "imageURL": "https://example.com/images/lehenga-choli.jpg",
+        "tale": {
+          "title": "The Story of the Rajput Princess",
+          "summary": "A legend about a courageous Rajput princess who, through her bravery and wisdom, defends her kingdom from invaders. Her tale symbolizes the strength and resilience of Indian royalty."
+        }
+      },
+      {
+        "name": "Salwar Kameez",
+        "description": "A traditional outfit consisting of a long tunic (kameez) paired with loose-fitting trousers (salwar) and often accompanied by a dupatta. It is known for its comfort and versatility.",
+        "imageURL": "https://example.com/images/salwar-kameez.jpg",
+        "tale": {
+          "title": "The Tale of the Empress Noor Jahan",
+          "summary": "The story of Noor Jahan, the Empress of the Mughal Empire, known for her political acumen and influence in the Mughal court. Her life story reflects the role of women in Mughal history."
+        }
+      },
+      {
+        "name": "Anarkali Suit",
+        "description": "A traditional outfit featuring a long, frock-style top (anarkali) with a slim or wide skirt and churidar (fitted trousers). It is renowned for its elegant and flowing design.",
+        "imageURL": "https://example.com/images/anarkali-suit.jpg",
+        "tale": {
+          "title": "The Legend of Anarkali",
+          "summary": "A famous love story set in the Mughal era involving Anarkali, a courtesan who falls in love with Prince Salim. The tale is known for its dramatic twists and the tragic fate of Anarkali."
+        }
+      },
+      {
+        "name": "Pattu Pavadai",
+        "description": "A traditional South Indian dress for young girls, consisting of a silk skirt (pavadai) and a matching blouse. It is often worn during festivals and special occasions.",
+        "imageURL": "https://example.com/images/pattu-pavadai.jpg",
+        "tale": {
+          "title": "The Story of Meera Bai",
+          "summary": "The story of Meera Bai, a revered saint and poetess who expressed her devotion to Lord Krishna through her bhajans. Her life is celebrated for its spirituality and unwavering faith."
+        }
+      }
+    ]
+  }
+  
